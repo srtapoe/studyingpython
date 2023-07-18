@@ -2,8 +2,9 @@
 
 <p align="center">🦆 Repositório para estudos da linguagem Python para a disciplina de Algoritmos 2</p>
 
-### [Desafios Pyhton]([[https://web.dio.me/track/orange-tech-backend](https://web.dio.me/track/6e3cb1b0-bbcc-4cab-8d5c-c2c7acec960d](https://github.com/rmveiga/exercicios_python#datas)))
+### [Desafios Pyhton](https://github.com/rmveiga/exercicios_python#datas)
 #### Desafios Básico
+>[Referência para assimilar a sintaxe - Documentação da linguagem](https://docs.python.org/pt-br/3/glossary.html#term-dicion%C3%A1rio)
 
 - [x] [Data atual e futura](https://github.com/srtapoe/studyingpython/blob/main/basic/basic1.py)
 - [x] [Somente data](https://github.com/srtapoe/studyingpython/blob/main/basic/basic1.py)
