@@ -12,3 +12,10 @@
 - [x] [Função - Par ou Impar](https://github.com/srtapoe/studyingpython/blob/main/basic/basic3.py)
 - [x] [Listas - Status do aluno](https://github.com/srtapoe/studyingpython/blob/main/basic/basic4.py)
 - [x] [Números - Antecessor e Sucessor](https://github.com/srtapoe/studyingpython/blob/main/basic/basic5.py)
+- [x] [String - Replace](https://github.com/srtapoe/studyingpython/blob/main/basic/basic7.py)
+
+### Avançado
+#### Lambdas
+[Playlist Python para iniciantes - Canal Refatorando](https://www.youtube.com/playlist?list=PLj7gJIFoP7jdirAFg-fHe9HKOnGLGXSHZ)
+
+
