@@ -1,0 +1,23 @@
+body {
+    background-color: darkslateblue;
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    color: goldenrod;
+}
+
+h1:hover{
+    color: darkorange;
+}
+
+.container{
+    padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h3{
+    color: darkorange;
+}
